@@ -1,6 +1,6 @@
 ### Olá! Eu sou Pedro Souza 👋🏻
 
-[![DEV](https://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/PedroFront3/DEVSOUZA)
+[![DEV](https://ForTheBadge.com/images/badges/built-by-developers.svg)](https://devsouza.vercel.app/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenrique565678@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_frontbr/?next=%2F)
